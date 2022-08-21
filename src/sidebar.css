@@ -1,0 +1,18 @@
+.side > div {
+  margin-left: 200px;
+  background-color: aqua;
+  width: 200px;
+  height: 100;
+  font-size: 25px;
+  border: 1px;
+  border-color: black;
+  border-radius: 2px;
+  border-style: solid;
+}
+
+.side {
+  margin-top: 0px;
+  border: 100px;
+  border-top: 100px;
+  border-right: 100px;
+}
